@@ -6,7 +6,7 @@ import { DashboardScreen } from '../screens/Dashboard/DashboardScreen';
 import { AnalyticsScreen } from '../screens/Analytics/AnalyticsScreen';
 import HistoryScreen from '../screens/History/HistoryScreen';
 import ScheduleScreen from '../screens/Timer/ScheduleScreen';
-import { SettingsScreen } from '../screens/Settings/SettingsScreen';
+import SettingsScreen from '../screens/Settings/SettingsScreen';
 import { COLORS } from '../constants/colors';
 
 const Tab = createBottomTabNavigator();
